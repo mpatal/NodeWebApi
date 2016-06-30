@@ -1,0 +1,25 @@
+{
+  "name": "NodeWebApi",
+  "version": "1.0.0",
+  "description": "Node Express, MongoDB and Redis learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpatal/NodeWebApi.git"
+  },
+  "keywords": [],
+  "author": "Marvin Patal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpatal/NodeWebApi/issues"
+  },
+  "homepage": "https://github.com/mpatal/NodeWebApi#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "lodash": "^4.13.1"
+  }
+}
